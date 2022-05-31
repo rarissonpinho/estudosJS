@@ -1,2 +1,2 @@
-# estudosJS
+# estudosRP
  Primeiro repositório versionado
